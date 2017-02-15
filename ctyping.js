@@ -14,7 +14,7 @@
         }
       }
 
-      add();
+      setTimeout(add, Math.floor(Math.random() * (++max - min)) + min);
     });
   };
 })(jQuery);
