@@ -1,0 +1,13 @@
+{
+  "name": "ctyping",
+  "main": "ctyping.min.js",
+  "authors": [
+    "come25136"
+  ],
+  "description": "jQuery plugin that displays letters in typing style.",
+  "keywords": [
+    "typing"
+  ],
+  "license": "CC0",
+  "homepage": "https://github.com/come25136/ctyping"
+}
